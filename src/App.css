@@ -1,0 +1,6 @@
+.sideNav {
+  height: 100vh;
+  display: flex;
+  overflow: hidden;
+  margin:0
+}
